@@ -1,3 +1,12 @@
+/* a string will be given as input
+The program has to print the number of occurences of the character specified by the index and uppercase or lower case
+
+IP:
+Apple Orange
+1
+u
+OP:
+1*/
 #include<stdio.h>
 #include <stdlib.h>
 
